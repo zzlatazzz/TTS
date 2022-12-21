@@ -8,4 +8,4 @@
 
 Ссылка на папку с чекпоинтом модели: https://drive.google.com/drive/folders/191UR3bK0ogSbYm5xEc3TDRHHaidTsED7?usp=sharing
 
-Ссылка на отчет wandb: https://wandb.ai/zzlatazz/fastspeech_example/reports/TTS--VmlldzozMDUwNjAw
+Ссылка на графики лоссов: https://wandb.ai/zzlatazz/fastspeech_example/reports/TTS--VmlldzozMDUwNjAw
